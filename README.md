@@ -23,6 +23,6 @@
 </div>
 
 # Welcome
-Welcome to the collaboratory GitHub page of Group A.03. On this repository, you'll find the results of our work within this course. Refer to the ``Wiki Pages`` to find the documentation of our work.
+Welcome to the collaboratory GitHub page of Group A.03. On this repository, you'll find the results of our work within this course. Refer to the [``📖 Wiki Pages``](https://github.com/AlbertoCazallasMonje/ISO2-2022-A03/wiki) to find the documentation of our work.
 <br>
 <br>
