@@ -16,6 +16,8 @@
     <a href="mailto:Alberto.Cazallas@alu.uclm.es">Alberto Cazallas Monje</a> (Team Leader)<br>
     <a href="mailto:Marvin.Schmidt@alu.uclm.es">Marvin Schmidt</a> (Secretary)<br>
     <a href="mailto:Alejandro.Duran@alu.uclm.es">Alejandro Durán De La Morena</a><br>
+    <a href="mailto:Alejandro.Garcia54@alu.uclm.es">Alejandro García Chacón</a><br>
+    <a href="mailtoAndres.Castellanos1@alu.uclm.es">Andrés Castellanos Cantos</a><br>
     <br>
     <h4>Lecturer</h4>
     <a href="mailto:Ismael.Caballero@uclm.es">Ismael Caballero Muñoz-Reja</a>
