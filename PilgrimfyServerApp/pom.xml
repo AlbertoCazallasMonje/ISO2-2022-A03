@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ISOA03-2022</groupId>
-  <artifactId>PilgrimfyServerApp</artifactId>
+  <artifactId>PilgrimfyBusinessOwnerApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
