@@ -1,4 +1,4 @@
-package ISOA03_2022.PilgrimfyServerApp;
+package ISOA03_2022.PilgrimfyBusinessOwnerApp;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
